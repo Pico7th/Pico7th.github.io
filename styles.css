@@ -14,7 +14,7 @@
     /* Add background image */
     background-image: url('background.jpg');
     background-position: center center;
-    background-repeat: no-repeat;
+    background-repeat: repeat-x;
     background-attachment: fixed;
     background-size: cover;
     
