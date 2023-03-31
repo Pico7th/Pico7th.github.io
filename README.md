@@ -1,2 +1,2 @@
 # Pico7th.github.io
-Our trip website
+与你<a href="pico7th.github.io">旅行</a>
