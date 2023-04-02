@@ -22,14 +22,14 @@
   
   .calendar-container {
     /* width: 100%; */
-    /* width: 3000px; */
+    width: 1450px;
     padding: 2rem;
     margin-top: 5px; /* Change this value to set the desired margin from the top */
   }
 
   
   .calendar {
-    width: 1450px;
+    width: 1400px;
     border-collapse: collapse;
 
   }
